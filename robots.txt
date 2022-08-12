@@ -1,3 +1,0 @@
-Sitemap: http://www.1goexplore.com/sitemap.xml
-User-agent: *
-Disallow: 
